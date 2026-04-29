@@ -1,3 +1,9 @@
+## CellRank Trajectory Analysis Pipeline
+
+# This script performs complete trajectory analysis of microglial state transitions in Alzheimer's disease using CellRank.
+# It computes RNA velocity, identifies microglial macrostates (homeostatic, DAM, proliferative, inflammatory), calculates fate probabilities
+# and extracts gene expression trends along each trajectory.
+
 # ------------------------------------------------------------
 # Setup
 # ------------------------------------------------------------
