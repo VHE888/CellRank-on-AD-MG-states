@@ -1,3 +1,8 @@
+## Generate CellRank Figures
+
+# This script generates basic visualization figures from CellRank analysis results
+# including RNA velocity streams, macrostate maps, fate probability plots, and gene expression trends along trajectories.
+
 import cellrank as cr
 import scanpy as sc
 import matplotlib.pyplot as plt
